@@ -10,7 +10,7 @@ Base de code propice à l'écriture de tests unitaires
 - Etape 2 : ajout JUnit au projet
 - Etpae 3 : initialiser une classe de Test
 - Etape 4 : écrire une méthode de test pour vérifier le comportement pour la valeur 1. Exécuter le test
-- Bonus étape 3 : mettre en place un build Travis et intégrer l'indicateur de build de la branche courante dans le Readme.
+- Bonus étape 4 : mettre en place un build Travis et intégrer l'indicateur de build de la branche courante dans le Readme.
 - Etape 5 : compléter la classe de test avec au moins deux autres scénarios pertinents (se concenter sur l'intervalle 0 .. 19). En cas de détection de bug, corriger le code afin que les tests soient passants
 - Etape 6 :
   - utiliser les annotations JUnit pour :
